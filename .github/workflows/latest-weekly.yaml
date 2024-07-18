@@ -41,8 +41,8 @@ jobs:
         if: ${{ steps.diff.outputs.changed == 'true' }}
         uses: peter-evans/create-pull-request@c5a7806660adbe173f04e3e038b0ccdcd758773c # v6.1.0
         with:
-          commit-message: 'feat(deps): bump jenkins weekly to ${{ steps.update.outputs.jenkins_version }}'
+          commit-message: 'feat(deps): bump jenkins to ${{ steps.update.outputs.jenkins_version }}'
           signoff: false
-          title: 'feat(deps): bump jenkins weekly to ${{ steps.update.outputs.jenkins_version }}'
+          title: 'feat(deps): bump jenkins to ${{ steps.update.outputs.jenkins_version }}'
           branch: latest-weekly
           token: ${{ steps.generate-token.outputs.token }}
