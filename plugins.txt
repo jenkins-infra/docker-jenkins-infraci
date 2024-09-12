@@ -94,10 +94,10 @@ jersey2-api:2.44-151.v6df377fff741
 jira:3.13
 jjwt-api:0.11.5-112.ve82dfb_224b_a_d
 jnr-posix-api:3.1.19-2
-job-dsl:1.88
+job-dsl:1.89
 jsch:0.2.16-86.v42e010d9484b_
 junit:1300.v03d9d8a_cf1fb_
-kubernetes:4285.v50ed5f624918
+kubernetes:4287.v73451380b_576
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:189.v90a_488b_d1d65
 kubernetes-credentials-provider:1.262.v2670ef7ea_0c5
@@ -129,7 +129,7 @@ prism-api:1.29.0-17
 pubsub-light:1.18
 scm-api:696.v778d637b_a_762
 scm-filter-branch-pr:148.v0b_5f06e8b_c84
-script-security:1358.vb_26663c13537
+script-security:1361.v913100720139
 snakeyaml-api:2.3-123.v13484c65210a_
 sse-gateway:1.27
 ssh-agent:376.v8933585c69d3
