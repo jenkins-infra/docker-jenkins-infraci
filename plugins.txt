@@ -9,7 +9,7 @@ aws-java-sdk-minimal:1.12.772-474.v7f79a_2046a_fb_
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:343.vd80f9c4859df
 azure-sdk:191.v53ec8913ee10
-azure-vm-agents:980.v4742455100fe
+azure-vm-agents:984.v3684c515c3d5
 basic-branch-build-strategies:190.v343a_ee70d920
 bootstrap5-api:5.3.3-1
 bouncycastle-api:2.30.1.78.1-248.ve27176eb_46cb_
@@ -74,7 +74,7 @@ jnr-posix-api:3.1.19-2
 job-dsl:1.90
 jsch:0.2.16-86.v42e010d9484b_
 junit:1312.v1a_235a_b_94a_31
-kubernetes:4304.v1b_39d4f98210
+kubernetes:4306.vc91e951ea_eb_d
 kubernetes-client-api:6.10.0-240.v57880ce8b_0b_2
 kubernetes-credentials:190.v03c305394deb_
 kubernetes-credentials-provider:1.262.v2670ef7ea_0c5
@@ -124,7 +124,7 @@ windows-azure-storage:454.v573775e9feef
 workflow-aggregator:600.vb_57cdd26fdd7
 workflow-api:1336.vee415d95c521
 workflow-basic-steps:1058.vcb_fc1e3a_21a_9
-workflow-cps:4000.v5198556e9cea_
+workflow-cps:4002.v80ca_d0f47d7f
 workflow-durable-task-step:1398.vf6c9e89e5988
 workflow-job:1472.ve4d5eca_143c4
 workflow-multibranch:795.ve0cb_1f45ca_9a_
