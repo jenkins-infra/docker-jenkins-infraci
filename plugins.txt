@@ -9,7 +9,7 @@ aws-java-sdk-minimal:1.12.772-474.v7f79a_2046a_fb_
 azure-container-agents:253.vd2f5cd5c5040
 azure-credentials:343.vd80f9c4859df
 azure-sdk:191.v53ec8913ee10
-azure-vm-agents:980.v4742455100fe
+azure-vm-agents:988.v9a_63017e8e36
 basic-branch-build-strategies:190.v343a_ee70d920
 bootstrap5-api:5.3.3-1
 bouncycastle-api:2.30.1.78.1-248.ve27176eb_46cb_
@@ -29,12 +29,12 @@ commons-text-api:1.12.0-129.v99a_50df237f7
 config-file-provider:980.v88956a_a_5d6a_d
 configuration-as-code:1903.v004d55388f30
 copyartifact:757.v05365583a_455
-credentials:1393.v6017143c1763
+credentials:1405.vb_cda_74a_f8974
 credentials-binding:687.v619cb_15e923f
 customizable-header:143.v6cb_d4e85f9d5
 dark-theme:514.va_3ea_73d65dc1
 data-tables-api:2.1.8-1
-design-library:334.v1036666878ed
+design-library:335.v0761fa_c97a_21
 disable-job-button:1.v9db_352414f90
 display-url-api:2.209.v582ed814ff2f
 docker-commons:445.v6b_646c962a_94
