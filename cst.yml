@@ -19,6 +19,3 @@ fileExistenceTests:
   - name: 'Azure VM Agents'
     path: '/usr/share/jenkins/ref/plugins/azure-vm-agents.jpi'
     shouldExist: true
-  - name: 'Azure Container Agents'
-    path: '/usr/share/jenkins/ref/plugins/azure-container-agents.jpi'
-    shouldExist: true
