@@ -30,14 +30,25 @@ sources:
       release: weekly
     transformers:
       - addsuffix: '-{{ source "getCurrentDockerTagSuffix" }}'
-  getLatestPlugins:
+  getLatestPluginsToTempFile:
     name: Update Jenkins plugins
     kind: shell
     spec:
-      # Note the ' && echo' to ensure output ends with an empty newline (POSIX)
       command: |
+        temp_file="$(mktemp)"
         docker container run --rm --volume=$(pwd):/data:ro --entrypoint=bash jenkins/jenkins:{{ source "getLatestJenkinsVersion" }} \
-          -c 'jenkins-plugin-cli --plugin-file /data/plugins.txt --available-updates --output txt && echo'
+          -c 'jenkins-plugin-cli --plugin-file /data/plugins.txt --available-updates --output txt' > "${temp_file}"
+        echo "${temp_file}"
+  getprbody:
+    name: Generate PR Body to ease maintainers life (used by action github/pullrequest)
+    kind: shell
+    spec:
+      command: bash ./updatecli/scripts/generate-pr-body.sh '{{ source "getLatestPluginsToTempFile" }}' ./plugins.txt
+  getLatestPlugins:
+    name: Get list of latest plugins
+    kind: file
+    spec:
+      file: '{{ source "getLatestPluginsToTempFile" }}'
 
 conditions:
   testDockerImageExists:
@@ -75,6 +86,11 @@ actions:
     scmid: default
     title: Bump Jenkins core and/or plugin versions
     spec:
+      description: |
+        <h3>Link(s):</h3>
+        <br/>
+        {{ source `getprbody` }}
+        <br/>
       labels:
         - dependencies
         - jenkins-plugins
