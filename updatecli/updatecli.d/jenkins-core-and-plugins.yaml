@@ -1,5 +1,5 @@
 ---
-name: Bump Jenkins Plugin versions
+name: Bump Jenkins Core and/or Plugins
 
 scms:
   default:
@@ -93,4 +93,5 @@ actions:
         <br/>
       labels:
         - dependencies
+        - jenkins-core
         - jenkins-plugins
