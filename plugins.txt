@@ -9,10 +9,10 @@ aws-java-sdk-minimal:1.12.780-480.v4a_0819121a_9e
 azure-container-agents:372.v073266fff4a_7
 azure-credentials:395.vb_a_9203343ef5
 azure-sdk:248.v0c922122245c
-azure-vm-agents:1053.v5b_86d7b_d9211
+azure-vm-agents:1055.v924d639291f4
 basic-branch-build-strategies:275.vde2351b_4a_58b_
 bootstrap5-api:5.3.8-895.v4d0d8e47fea_d
-bouncycastle-api:2.30.1.81-264.v95c79c0e772c
+bouncycastle-api:2.30.1.82-277.v70ca_0b_877184
 branch-api:2.1253.v6e7f7519f710
 build-name-setter:2.5.1
 buildtriggerbadge:325.vdcd8a_826e87a_
