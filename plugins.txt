@@ -19,7 +19,7 @@ buildtriggerbadge:325.vdcd8a_826e87a_
 caffeine-api:3.2.2-178.v353b_8428ed56
 checks-api:373.vfe7645102093
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:937.0.4
+cloudbees-bitbucket-branch-source:937.1.0
 cloudbees-folder:6.1053.vd62fb_b_f7367b_
 cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 coverage:2.2962.v6a_3557c95fd0
@@ -90,7 +90,7 @@ okhttp-api:4.12.0-195.vc02552c04ffd
 pipeline-build-step:571.v08a_fffd4b_0ce
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:245.v88f03631a_b_21
-pipeline-graph-view:651.vd73c8ee65d36
+pipeline-graph-view:652.vec2394db_041f
 pipeline-groovy-lib:766.v2b_e08c2e6ff2
 pipeline-input-step:534.v352f0a_e98918
 pipeline-milestone-step:138.v78ca_76831a_43
