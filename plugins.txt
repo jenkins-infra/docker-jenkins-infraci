@@ -83,7 +83,7 @@ ldap:793.v754d6b_41b_ea_4
 lockable-resources:1412.v3f305a_fb_a_117
 mailer:522.va_995fa_cfb_8b_d
 matrix-auth:3.2.8
-matrix-project:867.vc7ec936160ee
+matrix-project:870.v9db_fcfc2f45b_
 metrics:4.2.37-487.v7d6048d8733c
 node-iterator-api:72.vc90e81737df1
 okhttp-api:4.12.0-195.vc02552c04ffd
