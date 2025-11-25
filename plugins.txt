@@ -50,7 +50,7 @@ git-client:6.4.0
 git-forensics:3.2138.vf25ea_d549e33
 github:1.45.0
 github-api:1.330-492.v3941a_032db_2a_
-github-branch-source:1917.v9ee8a_39b_3d0d
+github-branch-source:1925.v62fb_7ffb_08ce
 github-checks:634.v371dc6d978a_3
 github-label-filter:1.0.0
 github-scm-trait-notification-context:45.v8ef831829589
