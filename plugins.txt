@@ -29,7 +29,7 @@ commons-text-api:1.14.0-194.v804a_dc3a_1b_d8
 config-file-provider:1002.v93e06b_792d44
 configuration-as-code:2006.v001a_2ca_6b_574
 copyartifact:770.va_6c69e063442
-credentials:1447.v4cb_b_539b_5321
+credentials:1453.v9b_a_29777a_b_fd
 credentials-binding:702.vfe613e537e88
 csp:2.57.va_b_326b_54f1ee
 customizable-header:232.v6459b_dd4f8a_9
