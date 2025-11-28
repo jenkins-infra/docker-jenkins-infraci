@@ -55,7 +55,7 @@ github-checks:634.v371dc6d978a_3
 github-label-filter:1.0.0
 github-scm-trait-notification-context:45.v8ef831829589
 groovy:497.v7b_061a_a_de65d
-handy-uri-templates-2-api:2.1.8-36.v85e4cb_234a_13
+handy-uri-templates-2-api:2.1.8-38.vcea_5d521d5f3
 htmlpublisher:427
 inline-pipeline:1.0.32.vf433f2d57630
 instance-identity:203.v15e81a_1b_7a_38
