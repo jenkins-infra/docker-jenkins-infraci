@@ -83,7 +83,7 @@ lockable-resources:1438.v3c0f8c9e2060
 mailer:525.v2458b_d8a_1a_71
 matrix-auth:3.2.9
 matrix-project:870.v9db_fcfc2f45b_
-metrics:4.2.37-489.vb_6db_69b_ce753
+metrics:4.2.37-494.v06f9a_939d33a_
 node-iterator-api:72.vc90e81737df1
 okhttp-api:4.12.0-195.vc02552c04ffd
 pipeline-build-step:571.v08a_fffd4b_0ce
