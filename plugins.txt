@@ -9,7 +9,7 @@ aws-java-sdk-minimal:1.12.780-480.v4a_0819121a_9e
 azure-container-agents:372.v073266fff4a_7
 azure-credentials:404.vd0fb_33a_8a_14e
 azure-sdk:259.vf079c96088a_f
-azure-vm-agents:1075.v0de0eb_b_27544
+azure-vm-agents:1088.va_4c4992184a_9
 basic-branch-build-strategies:317.v85b_331d6cc42
 bootstrap5-api:5.3.8-895.v4d0d8e47fea_d
 bouncycastle-api:2.30.1.82-277.v70ca_0b_877184
@@ -74,11 +74,11 @@ jnr-posix-api:3.1.21-186.vb_7ec9b_23ce83
 job-dsl:1.93
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1380.v491ff054cd35
-kubernetes:4419.v36079e3b_eb_5b_
+kubernetes:4423.vb_59f230b_ce53
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes-credentials-provider:1.301.v2eed6d439a_79
-ldap:793.v754d6b_41b_ea_4
+ldap:807.v7d7de30930cf
 lockable-resources:1438.v3c0f8c9e2060
 mailer:525.v2458b_d8a_1a_71
 matrix-auth:3.2.9
@@ -101,7 +101,7 @@ pipeline-stage-step:322.vecffa_99f371c
 pipeline-stage-tags-metadata:2.2277.v00573e73ddf1
 plain-credentials:199.v9f8e1f741799
 plugin-util-api:6.1192.v30fe6e2837ff
-prism-api:1.30.0-630.va_e19d17f83b_0
+prism-api:1.30.0-701.vf8f8f1f3fd55
 pubsub-light:1.19
 scm-api:724.v7d839074eb_5c
 scm-filter-branch-pr:264.v39ce4f34d572
@@ -123,9 +123,9 @@ windows-azure-storage:519.vd15db_1004122
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1398.v67030756d3fb_
 workflow-basic-steps:1098.v808b_fd7f8cf4
-workflow-cps:4252.v465f588eb_52f
+workflow-cps:4254.v0c8e228524ea_
 workflow-durable-task-step:1464.v2d3f5c68f84c
-workflow-job:1559.va_a_533730b_ea_d
+workflow-job:1570.v75b_888a_138a_3
 workflow-multibranch:821.vc3b_4ea_780798
 workflow-scm-step:466.va_d69e602552b_
 workflow-step-api:710.v3e456cc85233
