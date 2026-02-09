@@ -44,7 +44,7 @@ extended-read-permission:68.vd270568a_7520
 favorite:2.263.v941d21defef7
 font-awesome-api:7.1.0-882.v1dfb_771e3278
 forensics-api:3.1832.va_1179842528b_
-git:5.9.0
+git:5.10.0
 git-client:6.5.0
 git-forensics:3.2274.v3dc0fd546572
 github:1.45.0
@@ -118,7 +118,7 @@ timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
-warnings-ng:12.10007.va_42704b_594d3
+warnings-ng:12.10010.vca_9e003f32a_2
 windows-azure-storage:534.v3964f6b_f4338
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1398.v67030756d3fb_
