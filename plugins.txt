@@ -79,7 +79,7 @@ kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes-credentials-provider:1.303.vdfcf47fb_b_fef
 ldap:807.v7d7de30930cf
-lockable-resources:1487.vca_821c68f190
+lockable-resources:1489.v7228e15c55a_8
 mailer:534.v1b_36f5864073
 matrix-auth:3.2.9
 matrix-project:870.v9db_fcfc2f45b_
