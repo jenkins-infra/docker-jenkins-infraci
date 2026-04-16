@@ -19,8 +19,8 @@ buildtriggerbadge:343.vb_693d3ceda_44
 caffeine-api:3.2.3-194.v31a_b_f7a_b_5a_81
 checks-api:402.vca_263b_f200e3
 cloud-stats:377.vd8a_6c953e98e
-cloudbees-bitbucket-branch-source:937.3.0
-cloudbees-folder:6.1098.vb_9a_23a_b_c566a_
+cloudbees-bitbucket-branch-source:937.3.1
+cloudbees-folder:6.1100.ve9eed61d16c4
 cloudbees-jenkins-advisor:392.v6ca_b_ff4e12fa_
 coverage:3.3208.v500334516e20
 command-launcher:134.v025a_5fcf9dea_
@@ -89,14 +89,14 @@ okhttp-api:5.3.2-200.vedb_720a_cf1f8
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github:2.8-162.382498405fdc
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:819.ved496c19e082
+pipeline-graph-view:836.v68ef091500dd
 pipeline-groovy-lib:797.v90ea_a_9b_e45a_0
 pipeline-input-step:551.vdff487c5998c
 pipeline-milestone-step:152.v6e22b_8cfc66c
 pipeline-model-api:2.2277.v00573e73ddf1
 pipeline-model-definition:2.2277.v00573e73ddf1
 pipeline-model-extensions:2.2277.v00573e73ddf1
-pipeline-rest-api:2.39
+pipeline-rest-api:2.40
 pipeline-stage-step:345.va_96187909426
 pipeline-stage-tags-metadata:2.2277.v00573e73ddf1
 plain-credentials:199.v9f8e1f741799
@@ -118,7 +118,7 @@ timestamper:1.30
 token-macro:477.vd4f0dc3cb_cf1
 trilead-api:2.284.v1974ea_324382
 variant:70.va_d9f17f859e0
-warnings-ng:13.10041.v02db_71139a_fd
+warnings-ng:13.10084.va_8ffed9c57c6
 windows-azure-storage:535.v20d12167fa_70
 workflow-aggregator:608.v67378e9d3db_1
 workflow-api:1413.v2ff1a_5e720fa_
