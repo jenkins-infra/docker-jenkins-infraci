@@ -69,7 +69,7 @@ jaxb:2.3.9-143.v5979df3304e6
 jdk-tool:83.v417146707a_3d
 jersey2-api:2.48-180.ve47b_264f849b_
 jira:3.21
-jjwt-api:0.11.5-120.v0268cf544b_89
+jjwt-api:0.13.0-141.vd58b_a_9592b_6c
 jnr-posix-api:3.1.22-204.v925e2b_09a_42c
 job-dsl:3654.vdf58f53e2d15
 jsch:0.2.16-95.v3eecb_55fa_b_78
