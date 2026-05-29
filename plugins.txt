@@ -79,7 +79,7 @@ kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes-credentials-provider:1.303.vdfcf47fb_b_fef
 ldap:807.809.vd3a_4e5e4ec98
-lockable-resources:1515.v380548282a_59
+lockable-resources:1524.v2c727b_b_e56ef
 mailer:534.v1b_36f5864073
 matrix-auth:3.2.10
 matrix-project:870.v9db_fcfc2f45b_
@@ -89,7 +89,7 @@ okhttp-api:5.3.2-200.vedb_720a_cf1f8
 pipeline-build-step:584.vdb_a_2cc3a_d07a_
 pipeline-github:2.8-191.cb_1a_07f10b_a_f
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:916.v5904b_09231c5
+pipeline-graph-view:918.vf572523124f2
 pipeline-groovy-lib:798.v5cc688825312
 pipeline-input-step:551.vdff487c5998c
 pipeline-milestone-step:152.v6e22b_8cfc66c
