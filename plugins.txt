@@ -1,4 +1,4 @@
-analysis-model-api:14.12.0-992.v1093094f193e
+analysis-model-api:14.13.0-998.v6dec20409ce6
 ansicolor:536.v13fa_b_860c267
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
