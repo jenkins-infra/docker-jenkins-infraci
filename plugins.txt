@@ -19,7 +19,7 @@ buildtriggerbadge:343.vb_693d3ceda_44
 caffeine-api:3.2.4-208.v7e2da_a_7db_82b_
 checks-api:415.vf022234a_931d
 cloud-stats:423.v63f017a_f582c
-cloudbees-bitbucket-branch-source:937.3.9
+cloudbees-bitbucket-branch-source:937.3.10
 cloudbees-folder:6.1106.v3a_d9a_6d2465e
 cloudbees-jenkins-advisor:410.v52855a_9ca_3f6
 coverage:3.3358.v9487dde48783
