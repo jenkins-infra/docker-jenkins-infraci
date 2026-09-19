@@ -1,4 +1,4 @@
-analysis-model-api:14.17.0-1026.v569d23ce841e
+analysis-model-api:14.18.0-1028.v9c938eeda_ef2
 ansicolor:542.v03d235fee02d
 antisamy-markup-formatter:173.v680e3a_b_69ff3
 apache-httpcomponents-client-4-api:4.5.14-269.vfa_2321039a_83
@@ -73,7 +73,7 @@ jjwt-api:0.13.0-141.vd58b_a_9592b_6c
 jnr-posix-api:3.2.2-218.vd6064f4fa_0a_d
 job-dsl:3732.v9a_c49a_61a_313
 jsch:0.2.16-95.v3eecb_55fa_b_78
-junit:1425.v9c7318dca_96d
+junit:1427.vb_32a_611175b_f
 kubernetes:4557.ve746270f672f
 kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
