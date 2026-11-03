@@ -9,7 +9,7 @@ aws-java-sdk-minimal:1.12.780-480.v4a_0819121a_9e
 azure-container-agents:372.v073266fff4a_7
 azure-credentials:426.v5627e6a_4c7a_7
 azure-sdk:299.v3996878fe83a_
-azure-vm-agents:1119.v7351da_53454f
+azure-vm-agents:1124.v89b_2f7a_76f35
 basic-branch-build-strategies:317.v85b_331d6cc42
 bootstrap5-api:5.3.8-1048.va_c299057e35c
 bouncycastle-api:2.30.1.86.2-310.v4655f6742752
@@ -68,9 +68,9 @@ javax-mail-api:1.6.2-11
 jaxb:2.3.9-143.v5979df3304e6
 jdk-tool:83.v417146707a_3d
 jersey2-api:2.48-180.ve47b_264f849b_
-jira:3.22
+jira:3.23-e6d2843d355d
 jjwt-api:0.13.0-141.vd58b_a_9592b_6c
-jnr-posix-api:3.2.6-226.vb_c2388d1273f
+jnr-posix-api:3.2.7-228.v3591c105b_6b_d
 job-dsl:3732.v9a_c49a_61a_313
 jsch:0.2.16-95.v3eecb_55fa_b_78
 junit:1456.vdb_4425ca_0d4d
@@ -89,7 +89,7 @@ okhttp-api:5.5.0-242.v1482d48d3ea_3
 pipeline-build-step:601.v6d4c6d1a_9dc7
 pipeline-github:2.8-191.cb_1a_07f10b_a_f
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:1089.vce93977852b_7
+pipeline-graph-view:1097.vc7d4100b_3c3f
 pipeline-groovy-lib:822.vc95f70dea_db_7
 pipeline-input-step:560.v56198a_642157
 pipeline-milestone-step:152.v6e22b_8cfc66c
