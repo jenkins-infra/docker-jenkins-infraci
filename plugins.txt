@@ -45,7 +45,7 @@ favorite:2.267.vb_90d08408081
 font-awesome-api:7.3.1-1013.v0835a_879ec6d
 forensics-api:4.1923.v445c56df9b_2e
 git:5.11.0
-git-client:6.6.1
+git-client:6.7.0
 git-forensics:4.2557.v2c7f200dfc72
 github:1.47.0
 github-api:1.330-492.v3941a_032db_2a_
