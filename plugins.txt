@@ -22,7 +22,7 @@ cloud-stats:423.v63f017a_f582c
 cloudbees-bitbucket-branch-source:937.3.11
 cloudbees-folder:6.1107.v31f8955765c8
 cloudbees-jenkins-advisor:412.v9d1e9d6a_f428
-coverage:4.3608.v32367223c4dc
+coverage:4.3620.v407ef5b_88f0d
 command-launcher:144.vb_6cb_566c6c04
 commons-lang3-api:3.21.0-122.v6a_ea_4fd34049
 commons-text-api:1.15.0-218.va_61573470393
@@ -79,7 +79,7 @@ kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes-credentials-provider:1.324.v5271cd145cb_1
 ldap:825.v2fca_37dd5b_cb_
-lockable-resources:1593.v81b_70c9dfccb_
+lockable-resources:1601.vb_b_863eec56b_e
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
 matrix-project:928.v1effc3f3a_236
