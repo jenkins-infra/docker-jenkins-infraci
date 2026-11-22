@@ -43,7 +43,7 @@ echarts-api:6.1.0-1321.v86c4c5114494
 extended-read-permission:92.v1b_f0c20b_75db_
 favorite:2.275.v84e8229f6164
 font-awesome-api:7.3.1-1013.v0835a_879ec6d
-forensics-api:4.1923.v445c56df9b_2e
+forensics-api:4.1977.v0f55b_7ee93a_4
 git:5.11.0
 git-client:6.7.1
 git-forensics:4.2557.v2c7f200dfc72
@@ -82,14 +82,14 @@ ldap:825.v2fca_37dd5b_cb_
 lockable-resources:1601.vb_b_863eec56b_e
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
-matrix-project:928.v1effc3f3a_236
+matrix-project:954.v656d2cf610c4
 metrics:4.2.37-494.v06f9a_939d33a_
 node-iterator-api:72.vc90e81737df1
 okhttp-api:5.5.0-242.v1482d48d3ea_3
 pipeline-build-step:605.v00486e8f4b_3e
 pipeline-github:2.8-191.cb_1a_07f10b_a_f
 pipeline-graph-analysis:254.v0f63a_a_447dca_
-pipeline-graph-view:1134.v63b_71c6f549b_
+pipeline-graph-view:1135.vcc42b_437d65e
 pipeline-groovy-lib:822.vc95f70dea_db_7
 pipeline-input-step:568.v0c9db_2652741
 pipeline-milestone-step:152.v6e22b_8cfc66c
@@ -103,7 +103,7 @@ plain-credentials:199.v9f8e1f741799
 plugin-util-api:7.1403.vd380b_c42e90c
 prism-api:1.30.0-741.v034eb_0b_0a_a_fa_
 pubsub-light:1.19
-scm-api:728.vc30dcf7a_0df5
+scm-api:732.v830c71a_cfed3
 scm-filter-branch-pr:264.v39ce4f34d572
 script-security:1436.v1082791135e4
 snakeyaml-api:2.7-152.vc672728cf536
