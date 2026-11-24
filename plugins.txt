@@ -19,10 +19,10 @@ buildtriggerbadge:343.vb_693d3ceda_44
 caffeine-api:3.3.1-214.v18eb_56b_34920
 checks-api:441.v54e82638ca_71
 cloud-stats:423.v63f017a_f582c
-cloudbees-bitbucket-branch-source:937.3.11
+cloudbees-bitbucket-branch-source:937.4.0
 cloudbees-folder:6.1107.v31f8955765c8
 cloudbees-jenkins-advisor:412.v9d1e9d6a_f428
-coverage:4.3620.v407ef5b_88f0d
+coverage:4.3627.v8c2b_efe6d608
 command-launcher:144.vb_6cb_566c6c04
 commons-lang3-api:3.21.0-122.v6a_ea_4fd34049
 commons-text-api:1.15.0-218.va_61573470393
@@ -79,7 +79,7 @@ kubernetes-client-api:7.3.1-256.v788a_0b_787114
 kubernetes-credentials:207.v492f58828b_ed
 kubernetes-credentials-provider:1.324.v5271cd145cb_1
 ldap:825.v2fca_37dd5b_cb_
-lockable-resources:1605.v358d2a_661866
+lockable-resources:1609.vee2f0c2d4efd
 mailer:534.v1b_36f5864073
 matrix-auth:3.3
 matrix-project:954.v656d2cf610c4
